@@ -1,0 +1,4 @@
+
+# Project temp screenshots
+projects/*/screenshots/*.tmp
+screenshots/*.tmp
